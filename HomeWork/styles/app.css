@@ -1,0 +1,68 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: darkslategray;
+    color: white;
+    padding-left: 50px;
+    
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+img{
+    border-radius: 100px;
+    border: 5px solid black
+}
+
+#navUl{
+  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-left: 200px;
+}
+#navLi{
+    font-size: 30px;
+    display: inline-block;
+   
+}
+a{
+    
+    color:white;
+    text-decoration: none;
+    padding:10px;
+    border-left: 2px solid white;
+    
+}
+#right{
+    border-right: 2px solid white;
+}
+main{
+    align-items: center;
+    padding: 70px;
+}
+
+#aboutMe,#education,#skillsHobbies,#languages{
+    background-color: bisque;
+    padding: 30px;
+    border-bottom: 3px solid beige;
+}
+#abtMeP{
+    font-size: 18px;
+}
+ul{
+    padding-left: 20px;
+}
+li{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+table{
+    border: 2px solid black;
+}
+footer{
+    text-align: center;
+}
