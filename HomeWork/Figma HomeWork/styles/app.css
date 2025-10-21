@@ -394,7 +394,7 @@ border: 1px solid #BCD0E5;
   flex-direction: column;
 }
 
-.main-footer>div>ul>li>a {
+.main-footer a {
   line-height: 35px;
   font-size: 16px;
   text-decoration: none;
@@ -408,7 +408,7 @@ border: 1px solid #BCD0E5;
   height: 200px;
 }
 
-.link-list:last-child>input {
+.link-list:last-child input {
   width: 325px;
   height: 48px;
   margin: 21px 0;
